@@ -1,0 +1,9 @@
+{
+    "@context": {
+        "ContractDetail": "https://ngsi-ld.ouranos-ws.com/ContractDetail",
+        "hasContract": "https://ngsi-ld.ouranos-ws.com/hasContract",
+        "hasOffer": "https://ngsi-ld.ouranos-ws.com/hasOffer",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
+        "permit": "https://ngsi-ld.ouranos-ws.com/permit"
+    }
+}

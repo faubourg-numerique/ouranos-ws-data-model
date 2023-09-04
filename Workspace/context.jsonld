@@ -1,0 +1,16 @@
+{
+    "@context": {
+        "Workspace": "https://ngsi-ld.ouranos-ws.com/Workspace",
+        "contextBrokerTenant": "https://ngsi-ld.ouranos-ws.com/contextBrokerTenant",
+        "dataModelName": "https://ngsi-ld.ouranos-ws.com/dataModelName",
+        "dataModelVersion": "https://ngsi-ld.ouranos-ws.com/dataModelVersion",
+        "defaultDataModelUrl": "https://ngsi-ld.ouranos-ws.com/defaultDataModelUrl",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "enableOffers": "https://ngsi-ld.ouranos-ws.com/enableOffers",
+        "hasAuthorizationRegistry": "https://ngsi-ld.ouranos-ws.com/hasAuthorizationRegistry",
+        "hasAuthorizationRegistryGrant": "https://ngsi-ld.ouranos-ws.com/hasAuthorizationRegistryGrant",
+        "hasService": "https://ngsi-ld.ouranos-ws.com/hasService",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "temporalServices": "https://ngsi-ld.ouranos-ws.com/temporalServices"
+    }
+}

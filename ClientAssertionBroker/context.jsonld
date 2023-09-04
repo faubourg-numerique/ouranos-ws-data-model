@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "ClientAssertionBroker": "https://ngsi-ld.ouranos-ws.com/ClientAssertionBroker",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasAuthorizationRegistry": "https://ngsi-ld.ouranos-ws.com/hasAuthorizationRegistry",
+        "hasAuthorizationRegistryGrant": "https://ngsi-ld.ouranos-ws.com/hasAuthorizationRegistryGrant",
+        "hasService": "https://ngsi-ld.ouranos-ws.com/hasService",
+        "name": "https://ngsi-ld.ouranos-ws.com/name"
+    }
+}

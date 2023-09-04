@@ -1,0 +1,11 @@
+{
+    "@context": {
+        "Service": "https://ngsi-ld.ouranos-ws.com/Service",
+        "authorizationRequired": "https://ngsi-ld.ouranos-ws.com/authorizationRequired",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasContextBroker": "https://ngsi-ld.ouranos-ws.com/hasContextBroker",
+        "hasIdentityManager": "https://ngsi-ld.ouranos-ws.com/hasIdentityManager",
+        "hasIdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/hasIdentityManagerGrant",
+        "name": "https://ngsi-ld.ouranos-ws.com/name"
+    }
+}

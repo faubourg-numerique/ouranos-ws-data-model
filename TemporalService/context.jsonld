@@ -1,0 +1,17 @@
+{
+    "@context": {
+        "TemporalService": "https://ngsi-ld.ouranos-ws.com/TemporalService",
+        "authorizationRequired": "https://ngsi-ld.ouranos-ws.com/authorizationRequired",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "disableCertificateVerification": "https://ngsi-ld.ouranos-ws.com/disableCertificateVerification",
+        "hasIdentityManager": "https://ngsi-ld.ouranos-ws.com/hasIdentityManager",
+        "hasIdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/hasIdentityManagerGrant",
+        "host": "https://ngsi-ld.ouranos-ws.com/host",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "path": "https://ngsi-ld.ouranos-ws.com/path",
+        "port": "https://ngsi-ld.ouranos-ws.com/port",
+        "scheme": "https://ngsi-ld.ouranos-ws.com/scheme",
+        "temporalServiceType": "https://ngsi-ld.ouranos-ws.com/temporalServiceType",
+        "version": "https://ngsi-ld.ouranos-ws.com/version"
+    }
+}

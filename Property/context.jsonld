@@ -1,0 +1,21 @@
+{
+    "@context": {
+        "Property": "https://ngsi-ld.ouranos-ws.com/Property",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "geoPropertyGeographic": "https://ngsi-ld.ouranos-ws.com/geoPropertyGeographic",
+        "geoPropertyNgsiLdType": "https://ngsi-ld.ouranos-ws.com/geoPropertyNgsiLdType",
+        "hasProperty": "https://ngsi-ld.ouranos-ws.com/hasProperty",
+        "hasType": "https://ngsi-ld.ouranos-ws.com/hasType",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
+        "mandatory": "https://ngsi-ld.ouranos-ws.com/mandatory",
+        "multiValued": "https://ngsi-ld.ouranos-ws.com/multiValued",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "ngsiLdType": "https://ngsi-ld.ouranos-ws.com/ngsiLdType",
+        "propertyNgsiLdValueType": "https://ngsi-ld.ouranos-ws.com/propertyNgsiLdValueType",
+        "relationshipType": "https://ngsi-ld.ouranos-ws.com/relationshipType",
+        "standard": "https://ngsi-ld.ouranos-ws.com/standard",
+        "temporal": "https://ngsi-ld.ouranos-ws.com/temporal",
+        "temporalServices": "https://ngsi-ld.ouranos-ws.com/temporalServices",
+        "url": "https://ngsi-ld.ouranos-ws.com/url"
+    }
+}

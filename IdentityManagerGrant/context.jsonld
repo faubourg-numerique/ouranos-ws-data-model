@@ -1,0 +1,12 @@
+{
+    "@context": {
+        "IdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/IdentityManagerGrant",
+        "clientId": "https://ngsi-ld.ouranos-ws.com/clientId",
+        "clientSecret": "https://ngsi-ld.ouranos-ws.com/clientSecret",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "grantType": "https://ngsi-ld.ouranos-ws.com/grantType",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "password": "https://ngsi-ld.ouranos-ws.com/password",
+        "username": "https://ngsi-ld.ouranos-ws.com/username"
+    }
+}

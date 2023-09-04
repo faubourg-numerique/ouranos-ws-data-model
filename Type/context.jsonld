@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "Type": "https://ngsi-ld.ouranos-ws.com/Type",
+        "dataModelGroup": "https://ngsi-ld.ouranos-ws.com/dataModelGroup",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "positionInChart": "https://ngsi-ld.ouranos-ws.com/positionInChart",
+        "standardDataModelBased": "https://ngsi-ld.ouranos-ws.com/standardDataModelBased",
+        "standardDataModelDefinitionUrl": "https://ngsi-ld.ouranos-ws.com/standardDataModelDefinitionUrl",
+        "standardDataModelType": "https://ngsi-ld.ouranos-ws.com/standardDataModelType",
+        "url": "https://ngsi-ld.ouranos-ws.com/url"
+    }
+}

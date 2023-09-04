@@ -1,0 +1,18 @@
+{
+    "@context": {
+        "AuthorizationRegistry": "https://ngsi-ld.ouranos-ws.com/AuthorizationRegistry",
+        "certificates": "https://ngsi-ld.ouranos-ws.com/certificates",
+        "delegationPath": "https://ngsi-ld.ouranos-ws.com/delegationPath",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "host": "https://ngsi-ld.ouranos-ws.com/host",
+        "identifier": "https://ngsi-ld.ouranos-ws.com/identifier",
+        "implementationName": "https://ngsi-ld.ouranos-ws.com/implementationName",
+        "implementationVersion": "https://ngsi-ld.ouranos-ws.com/implementationVersion",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "oauth2TokenPath": "https://ngsi-ld.ouranos-ws.com/oauth2TokenPath",
+        "path": "https://ngsi-ld.ouranos-ws.com/path",
+        "policyPath": "https://ngsi-ld.ouranos-ws.com/policyPath",
+        "port": "https://ngsi-ld.ouranos-ws.com/port",
+        "scheme": "https://ngsi-ld.ouranos-ws.com/scheme"
+    }
+}

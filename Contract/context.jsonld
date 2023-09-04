@@ -1,0 +1,14 @@
+{
+    "@context": {
+        "Contract": "https://ngsi-ld.ouranos-ws.com/Contract",
+        "accessSubject": "https://ngsi-ld.ouranos-ws.com/accessSubject",
+        "dataServiceConsumerId": "https://ngsi-ld.ouranos-ws.com/dataServiceConsumerId",
+        "dataServiceProviderId": "https://ngsi-ld.ouranos-ws.com/dataServiceProviderId",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
+        "lastDelegationEvidence": "https://ngsi-ld.ouranos-ws.com/lastDelegationEvidence",
+        "notBefore": "https://ngsi-ld.ouranos-ws.com/notBefore",
+        "notOnOrAfter": "https://ngsi-ld.ouranos-ws.com/notOnOrAfter",
+        "synchronizationTime": "https://ngsi-ld.ouranos-ws.com/synchronizationTime",
+        "synchronized": "https://ngsi-ld.ouranos-ws.com/synchronized"
+    }
+}

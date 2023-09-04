@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "AuthorizationRegistryGrant": "https://ngsi-ld.ouranos-ws.com/AuthorizationRegistryGrant",
+        "certificates": "https://ngsi-ld.ouranos-ws.com/certificates",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "identifier": "https://ngsi-ld.ouranos-ws.com/identifier",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "privateKey": "https://ngsi-ld.ouranos-ws.com/privateKey"
+    }
+}

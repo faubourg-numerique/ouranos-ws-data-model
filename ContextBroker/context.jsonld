@@ -1,0 +1,17 @@
+{
+    "@context": {
+        "ContextBroker": "https://ngsi-ld.ouranos-ws.com/ContextBroker",
+        "customHeaders": "https://ngsi-ld.ouranos-ws.com/customHeaders",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "disableCertificateVerification": "https://ngsi-ld.ouranos-ws.com/disableCertificateVerification",
+        "host": "https://ngsi-ld.ouranos-ws.com/host",
+        "implementationName": "https://ngsi-ld.ouranos-ws.com/implementationName",
+        "implementationVersion": "https://ngsi-ld.ouranos-ws.com/implementationVersion",
+        "multiTenancyEnabled": "https://ngsi-ld.ouranos-ws.com/multiTenancyEnabled",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "paginationMaxLimit": "https://ngsi-ld.ouranos-ws.com/paginationMaxLimit",
+        "path": "https://ngsi-ld.ouranos-ws.com/path",
+        "port": "https://ngsi-ld.ouranos-ws.com/port",
+        "scheme": "https://ngsi-ld.ouranos-ws.com/scheme"
+    }
+}
