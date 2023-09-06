@@ -1,0 +1,7 @@
+{
+    "@context": {
+        "DataService": "https://ngsi-ld.ouranos-ws.com/DataService",
+        "hasEntityType": "https://ngsi-ld.ouranos-ws.com/hasEntityType",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace"
+    }
+}

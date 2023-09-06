@@ -1,0 +1,7 @@
+{
+    "@context": {
+        "DataAction": "https://ngsi-ld.ouranos-ws.com/DataAction",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "description": "https://ngsi-ld.ouranos-ws.com/description"
+    }
+}

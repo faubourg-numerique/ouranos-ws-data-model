@@ -1,0 +1,8 @@
+{
+    "@context": {
+        "DataServiceProperty": "https://ngsi-ld.ouranos-ws.com/DataServiceProperty",
+        "hasDataService": "https://ngsi-ld.ouranos-ws.com/hasDataService",
+        "hasProperty": "https://ngsi-ld.ouranos-ws.com/hasProperty",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace"
+    }
+}
