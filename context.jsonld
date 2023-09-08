@@ -59,6 +59,8 @@
         "identifiers": "https://ngsi-ld.ouranos-ws.com/identifiers",
         "implementationName": "https://ngsi-ld.ouranos-ws.com/implementationName",
         "implementationVersion": "https://ngsi-ld.ouranos-ws.com/implementationVersion",
+        "isDemand": "https://ngsi-ld.ouranos-ws.com/isDemand",
+        "isOffer": "https://ngsi-ld.ouranos-ws.com/isOffer",
         "lastDelegationEvidence": "https://ngsi-ld.ouranos-ws.com/lastDelegationEvidence",
         "mandatory": "https://ngsi-ld.ouranos-ws.com/mandatory",
         "multiTenancyEnabled": "https://ngsi-ld.ouranos-ws.com/multiTenancyEnabled",
