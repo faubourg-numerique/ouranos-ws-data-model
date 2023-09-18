@@ -9,6 +9,7 @@
         "DataAction": "https://ngsi-ld.ouranos-ws.com/DataAction",
         "DataService": "https://ngsi-ld.ouranos-ws.com/DataService",
         "DataServiceAction": "https://ngsi-ld.ouranos-ws.com/DataServiceAction",
+        "DataServiceOffer": "https://ngsi-ld.ouranos-ws.com/DataServiceOffer",
         "DataServiceProperty": "https://ngsi-ld.ouranos-ws.com/DataServiceProperty",
         "IdentityManager": "https://ngsi-ld.ouranos-ws.com/IdentityManager",
         "IdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/IdentityManagerGrant",
