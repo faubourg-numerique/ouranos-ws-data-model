@@ -1,11 +1,13 @@
 {
     "@context": {
         "Service": "https://ngsi-ld.ouranos-ws.com/Service",
+        "authorizationMode": "https://ngsi-ld.ouranos-ws.com/authorizationMode",
         "authorizationRequired": "https://ngsi-ld.ouranos-ws.com/authorizationRequired",
         "description": "https://ngsi-ld.ouranos-ws.com/description",
         "hasContextBroker": "https://ngsi-ld.ouranos-ws.com/hasContextBroker",
         "hasIdentityManager": "https://ngsi-ld.ouranos-ws.com/hasIdentityManager",
         "hasIdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/hasIdentityManagerGrant",
+        "hasVCVerifier": "https://ngsi-ld.ouranos-ws.com/hasVCVerifier",
         "name": "https://ngsi-ld.ouranos-ws.com/name"
     }
 }
