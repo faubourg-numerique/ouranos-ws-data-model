@@ -3,6 +3,7 @@
         "Service": "https://ngsi-ld.ouranos-ws.com/Service",
         "authorizationMode": "https://ngsi-ld.ouranos-ws.com/authorizationMode",
         "authorizationRequired": "https://ngsi-ld.ouranos-ws.com/authorizationRequired",
+        "clientId": "https://ngsi-ld.ouranos-ws.com/clientId",
         "description": "https://ngsi-ld.ouranos-ws.com/description",
         "hasContextBroker": "https://ngsi-ld.ouranos-ws.com/hasContextBroker",
         "hasIdentityManager": "https://ngsi-ld.ouranos-ws.com/hasIdentityManager",
