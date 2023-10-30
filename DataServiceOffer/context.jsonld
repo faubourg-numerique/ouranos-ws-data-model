@@ -3,6 +3,7 @@
         "DataServiceOffer": "https://ngsi-ld.ouranos-ws.com/DataServiceOffer",
         "description": "https://ngsi-ld.ouranos-ws.com/description",
         "hasDataService": "https://ngsi-ld.ouranos-ws.com/hasDataService",
+        "hasDataServiceAccess": "https://ngsi-ld.ouranos-ws.com/hasDataServiceAccess",
         "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
         "url": "https://ngsi-ld.ouranos-ws.com/url"
     }

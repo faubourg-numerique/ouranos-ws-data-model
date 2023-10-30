@@ -50,6 +50,7 @@
         "hasContract": "https://ngsi-ld.ouranos-ws.com/hasContract",
         "hasDataAction": "https://ngsi-ld.ouranos-ws.com/hasDataAction",
         "hasDataService": "https://ngsi-ld.ouranos-ws.com/hasDataService",
+        "hasDataServiceAccess": "https://ngsi-ld.ouranos-ws.com/hasDataServiceAccess",
         "hasEntityType": "https://ngsi-ld.ouranos-ws.com/hasEntityType",
         "hasIdentityManager": "https://ngsi-ld.ouranos-ws.com/hasIdentityManager",
         "hasIdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/hasIdentityManagerGrant",
