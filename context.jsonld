@@ -8,6 +8,7 @@
         "ContractDetail": "https://ngsi-ld.ouranos-ws.com/ContractDetail",
         "DataAction": "https://ngsi-ld.ouranos-ws.com/DataAction",
         "DataService": "https://ngsi-ld.ouranos-ws.com/DataService",
+        "DataServiceAccess": "https://ngsi-ld.ouranos-ws.com/DataServiceAccess",
         "DataServiceAction": "https://ngsi-ld.ouranos-ws.com/DataServiceAction",
         "DataServiceOffer": "https://ngsi-ld.ouranos-ws.com/DataServiceOffer",
         "DataServiceProperty": "https://ngsi-ld.ouranos-ws.com/DataServiceProperty",
@@ -84,6 +85,7 @@
         "privateKey": "https://ngsi-ld.ouranos-ws.com/privateKey",
         "propertyNgsiLdValueType": "https://ngsi-ld.ouranos-ws.com/propertyNgsiLdValueType",
         "relationshipType": "https://ngsi-ld.ouranos-ws.com/relationshipType",
+        "roleName": "https://ngsi-ld.ouranos-ws.com/roleName",
         "scheme": "https://ngsi-ld.ouranos-ws.com/scheme",
         "standard": "https://ngsi-ld.ouranos-ws.com/standard",
         "standardDataModelBased": "https://ngsi-ld.ouranos-ws.com/standardDataModelBased",
@@ -97,6 +99,7 @@
         "url": "https://ngsi-ld.ouranos-ws.com/url",
         "userPath": "https://ngsi-ld.ouranos-ws.com/userPath",
         "username": "https://ngsi-ld.ouranos-ws.com/username",
+        "verifiableCredentialType": "https://ngsi-ld.ouranos-ws.com/verifiableCredentialType",
         "version": "https://ngsi-ld.ouranos-ws.com/version"
     }
 }
