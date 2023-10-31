@@ -1,7 +1,6 @@
 {
     "@context": {
         "DataServiceAccess": "https://ngsi-ld.ouranos-ws.com/DataServiceAccess",
-        "accessSubject": "https://ngsi-ld.ouranos-ws.com/accessSubject",
         "dataServiceProviderId": "https://ngsi-ld.ouranos-ws.com/dataServiceProviderId",
         "hasDataService": "https://ngsi-ld.ouranos-ws.com/hasDataService",
         "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
