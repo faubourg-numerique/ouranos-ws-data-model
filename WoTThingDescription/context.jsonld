@@ -1,0 +1,9 @@
+{
+    "@context": {
+        "WoTThingDescription": "https://ngsi-ld.ouranos-ws.com/WoTThingDescription",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "positionInChart": "https://ngsi-ld.ouranos-ws.com/positionInChart"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "@context": {
+        "Capability": "https://ngsi-ld.ouranos-ws.com/Capability",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
+        "name": "https://ngsi-ld.ouranos-ws.com/name"
+    }
+}

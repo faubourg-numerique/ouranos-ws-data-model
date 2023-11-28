@@ -1,0 +1,8 @@
+{
+    "@context": {
+        "Routing": "https://ngsi-ld.ouranos-ws.com/Routing",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
+        "name": "https://ngsi-ld.ouranos-ws.com/name"
+    }
+}

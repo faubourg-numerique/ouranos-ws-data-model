@@ -1,0 +1,11 @@
+{
+    "@context": {
+        "ControlledProperty": "https://ngsi-ld.ouranos-ws.com/ControlledProperty",
+        "capacityType": "https://ngsi-ld.ouranos-ws.com/capacityType",
+        "capacityValue": "https://ngsi-ld.ouranos-ws.com/capacityValue",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasCapability": "https://ngsi-ld.ouranos-ws.com/hasCapability",
+        "hasProperty": "https://ngsi-ld.ouranos-ws.com/hasProperty",
+        "name": "https://ngsi-ld.ouranos-ws.com/name"
+    }
+}

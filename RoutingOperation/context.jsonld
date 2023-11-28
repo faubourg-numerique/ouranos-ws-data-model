@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "RoutingOperation": "https://ngsi-ld.ouranos-ws.com/RoutingOperation",
+        "hasCapability": "https://ngsi-ld.ouranos-ws.com/hasCapability",
+        "hasRouting": "https://ngsi-ld.ouranos-ws.com/hasRouting",
+        "sequenceNumber": "https://ngsi-ld.ouranos-ws.com/sequenceNumber",
+        "timerAfter": "https://ngsi-ld.ouranos-ws.com/timerAfter",
+        "timerBefore": "https://ngsi-ld.ouranos-ws.com/timerBefore"
+    }
+}
