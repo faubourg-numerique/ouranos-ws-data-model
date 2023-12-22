@@ -1,7 +1,7 @@
 {
     "@context": {
         "RoutingOperation": "https://ngsi-ld.ouranos-ws.com/RoutingOperation",
-        "hasCapability": "https://ngsi-ld.ouranos-ws.com/hasCapability",
+        "hasWoTAction": "https://ngsi-ld.ouranos-ws.com/hasWoTAction",
         "hasRouting": "https://ngsi-ld.ouranos-ws.com/hasRouting",
         "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
         "sequenceNumber": "https://ngsi-ld.ouranos-ws.com/sequenceNumber",

@@ -1,10 +1,10 @@
 {
     "@context": {
-        "ControlledProperty": "https://ngsi-ld.ouranos-ws.com/ControlledProperty",
+        "WoTProperty": "https://ngsi-ld.ouranos-ws.com/WoTProperty",
         "capacityType": "https://ngsi-ld.ouranos-ws.com/capacityType",
         "capacityValue": "https://ngsi-ld.ouranos-ws.com/capacityValue",
         "description": "https://ngsi-ld.ouranos-ws.com/description",
-        "hasCapability": "https://ngsi-ld.ouranos-ws.com/hasCapability",
+        "hasWoTAction": "https://ngsi-ld.ouranos-ws.com/hasWoTAction",
         "hasProperty": "https://ngsi-ld.ouranos-ws.com/hasProperty",
         "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
         "name": "https://ngsi-ld.ouranos-ws.com/name"

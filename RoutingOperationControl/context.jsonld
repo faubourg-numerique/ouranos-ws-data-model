@@ -1,8 +1,8 @@
 {
     "@context": {
         "RoutingOperationControl": "https://ngsi-ld.ouranos-ws.com/RoutingOperationControl",
-        "controlledPropertyValue": "https://ngsi-ld.ouranos-ws.com/controlledPropertyValue",
-        "hasControlledProperty": "https://ngsi-ld.ouranos-ws.com/hasControlledProperty",
+        "woTPropertyValue": "https://ngsi-ld.ouranos-ws.com/woTPropertyValue",
+        "hasWoTProperty": "https://ngsi-ld.ouranos-ws.com/hasWoTProperty",
         "hasRoutingOperation": "https://ngsi-ld.ouranos-ws.com/hasRoutingOperation",
         "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace"
     }
