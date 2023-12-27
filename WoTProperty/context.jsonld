@@ -4,8 +4,8 @@
         "capacityType": "https://ngsi-ld.ouranos-ws.com/capacityType",
         "capacityValue": "https://ngsi-ld.ouranos-ws.com/capacityValue",
         "description": "https://ngsi-ld.ouranos-ws.com/description",
-        "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
         "hasProperty": "https://ngsi-ld.ouranos-ws.com/hasProperty",
+        "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
         "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
         "name": "https://ngsi-ld.ouranos-ws.com/name"
     }
