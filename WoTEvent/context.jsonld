@@ -1,0 +1,13 @@
+{
+    "@context": {
+        "WoTEvent": "https://ngsi-ld.ouranos-ws.com/WoTEvent",
+        "capacityType": "https://ngsi-ld.ouranos-ws.com/capacityType",
+        "capacityValue": "https://ngsi-ld.ouranos-ws.com/capacityValue",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasDataService": "https://ngsi-ld.ouranos-ws.com/hasDataService",
+        "hasWoTProperty": "https://ngsi-ld.ouranos-ws.com/hasWoTProperty",
+        "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
+        "name": "https://ngsi-ld.ouranos-ws.com/name"
+    }
+}
