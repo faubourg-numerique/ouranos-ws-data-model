@@ -2,6 +2,7 @@
     "@context": {
         "WoTAction": "https://ngsi-ld.ouranos-ws.com/WoTAction",
         "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasDataService": "https://ngsi-ld.ouranos-ws.com/hasDataService",
         "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
         "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
         "name": "https://ngsi-ld.ouranos-ws.com/name"
