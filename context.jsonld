@@ -24,7 +24,6 @@
         "Type": "https://ngsi-ld.ouranos-ws.com/Type",
         "VCVerifier": "https://ngsi-ld.ouranos-ws.com/VCVerifier",
         "WoTAction": "https://ngsi-ld.ouranos-ws.com/WoTAction",
-        "WoTActionParameter": "https://ngsi-ld.ouranos-ws.com/WoTActionParameter",
         "WoTEvent": "https://ngsi-ld.ouranos-ws.com/WoTEvent",
         "WoTProperty": "https://ngsi-ld.ouranos-ws.com/WoTProperty",
         "WoTThingDescription": "https://ngsi-ld.ouranos-ws.com/WoTThingDescription",

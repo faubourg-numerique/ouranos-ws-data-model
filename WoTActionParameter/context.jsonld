@@ -1,8 +1,0 @@
-{
-    "@context": {
-        "WoTActionParameter": "https://ngsi-ld.ouranos-ws.com/WoTActionParameter",
-        "hasWoTAction": "https://ngsi-ld.ouranos-ws.com/hasWoTAction",
-        "hasWoTProperty": "https://ngsi-ld.ouranos-ws.com/hasWoTProperty",
-        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace"
-    }
-}
