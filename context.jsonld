@@ -16,6 +16,7 @@
         "IdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/IdentityManagerGrant",
         "Offer": "https://ngsi-ld.ouranos-ws.com/Offer",
         "Property": "https://ngsi-ld.ouranos-ws.com/Property",
+        "Role": "https://ngsi-ld.ouranos-ws.com/Role",
         "Routing": "https://ngsi-ld.ouranos-ws.com/Routing",
         "RoutingOperation": "https://ngsi-ld.ouranos-ws.com/RoutingOperation",
         "RoutingOperationControl": "https://ngsi-ld.ouranos-ws.com/RoutingOperationControl",

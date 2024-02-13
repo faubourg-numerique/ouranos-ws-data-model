@@ -1,0 +1,7 @@
+{
+    "@context": {
+        "Role": "https://ngsi-ld.ouranos-ws.com/Role",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
+        "name": "https://ngsi-ld.ouranos-ws.com/name"
+    }
+}
