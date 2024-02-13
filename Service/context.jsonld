@@ -9,6 +9,7 @@
         "hasIdentityManager": "https://ngsi-ld.ouranos-ws.com/hasIdentityManager",
         "hasIdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/hasIdentityManagerGrant",
         "hasVCVerifier": "https://ngsi-ld.ouranos-ws.com/hasVCVerifier",
-        "name": "https://ngsi-ld.ouranos-ws.com/name"
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "hasTrustedIssuersList": "https://ngsi-ld.ouranos-ws.com/hasTrustedIssuersList"
     }
 }
