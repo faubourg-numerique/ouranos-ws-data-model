@@ -21,6 +21,7 @@
         "RoutingOperationControl": "https://ngsi-ld.ouranos-ws.com/RoutingOperationControl",
         "Service": "https://ngsi-ld.ouranos-ws.com/Service",
         "TemporalService": "https://ngsi-ld.ouranos-ws.com/TemporalService",
+        "TrustedIssuersList": "https://ngsi-ld.ouranos-ws.com/TrustedIssuersList",
         "Type": "https://ngsi-ld.ouranos-ws.com/Type",
         "VCVerifier": "https://ngsi-ld.ouranos-ws.com/VCVerifier",
         "WoTAction": "https://ngsi-ld.ouranos-ws.com/WoTAction",
