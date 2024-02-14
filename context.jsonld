@@ -123,6 +123,11 @@
         "woTPropertyValue": "https://ngsi-ld.ouranos-ws.com/woTPropertyValue",
         "hasTrustedIssuersList": "https://ngsi-ld.ouranos-ws.com/hasTrustedIssuersList",
         "hasRole": "https://ngsi-ld.ouranos-ws.com/hasRole",
-        "did": "https://ngsi-ld.ouranos-ws.com/did"
+        "did": "https://ngsi-ld.ouranos-ws.com/did",
+        "contractType": "https://ngsi-ld.ouranos-ws.com/contractType",
+        "stakeholderDid": "https://ngsi-ld.ouranos-ws.com/stakeholderDid",
+        "stakeholderName": "https://ngsi-ld.ouranos-ws.com/stakeholderName",
+        "validFromTime": "https://ngsi-ld.ouranos-ws.com/validFromTime",
+        "validToTime": "https://ngsi-ld.ouranos-ws.com/validToTime"
     }
 }
