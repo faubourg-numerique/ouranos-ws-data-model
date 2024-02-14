@@ -10,6 +10,7 @@
         "roleName": "https://ngsi-ld.ouranos-ws.com/roleName",
         "synchronizationTime": "https://ngsi-ld.ouranos-ws.com/synchronizationTime",
         "synchronized": "https://ngsi-ld.ouranos-ws.com/synchronized",
-        "verifiableCredentialType": "https://ngsi-ld.ouranos-ws.com/verifiableCredentialType"
+        "verifiableCredentialType": "https://ngsi-ld.ouranos-ws.com/verifiableCredentialType",
+        "hasRole": "https://ngsi-ld.ouranos-ws.com/hasRole"
     }
 }

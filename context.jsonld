@@ -122,6 +122,7 @@
         "verifiableCredentialType": "https://ngsi-ld.ouranos-ws.com/verifiableCredentialType",
         "version": "https://ngsi-ld.ouranos-ws.com/version",
         "woTPropertyValue": "https://ngsi-ld.ouranos-ws.com/woTPropertyValue",
-        "hasTrustedIssuersList": "https://ngsi-ld.ouranos-ws.com/hasTrustedIssuersList"
+        "hasTrustedIssuersList": "https://ngsi-ld.ouranos-ws.com/hasTrustedIssuersList",
+        "hasRole": "https://ngsi-ld.ouranos-ws.com/hasRole"
     }
 }
