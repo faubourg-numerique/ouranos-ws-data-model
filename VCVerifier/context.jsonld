@@ -9,6 +9,7 @@
         "name": "https://ngsi-ld.ouranos-ws.com/name",
         "path": "https://ngsi-ld.ouranos-ws.com/path",
         "port": "https://ngsi-ld.ouranos-ws.com/port",
-        "scheme": "https://ngsi-ld.ouranos-ws.com/scheme"
+        "scheme": "https://ngsi-ld.ouranos-ws.com/scheme",
+        "did": "https://ngsi-ld.ouranos-ws.com/did"
     }
 }

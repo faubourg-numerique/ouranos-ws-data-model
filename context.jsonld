@@ -123,6 +123,7 @@
         "version": "https://ngsi-ld.ouranos-ws.com/version",
         "woTPropertyValue": "https://ngsi-ld.ouranos-ws.com/woTPropertyValue",
         "hasTrustedIssuersList": "https://ngsi-ld.ouranos-ws.com/hasTrustedIssuersList",
-        "hasRole": "https://ngsi-ld.ouranos-ws.com/hasRole"
+        "hasRole": "https://ngsi-ld.ouranos-ws.com/hasRole",
+        "did": "https://ngsi-ld.ouranos-ws.com/did"
     }
 }
