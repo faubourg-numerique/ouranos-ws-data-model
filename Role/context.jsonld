@@ -1,7 +1,14 @@
 {
     "@context": {
         "Role": "https://ngsi-ld.ouranos-ws.com/Role",
-        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
-        "name": "https://ngsi-ld.ouranos-ws.com/name"
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "notBefore": "https://ngsi-ld.ouranos-ws.com/notBefore",
+        "notOnOrAfter": "https://ngsi-ld.ouranos-ws.com/notOnOrAfter",
+        "synchronized": "https://ngsi-ld.ouranos-ws.com/synchronized",
+        "synchronizationTime": "https://ngsi-ld.ouranos-ws.com/synchronizationTime",
+        "dataServiceProviderId": "https://ngsi-ld.ouranos-ws.com/dataServiceProviderId",
+        "lastDelegationEvidence": "https://ngsi-ld.ouranos-ws.com/lastDelegationEvidence",
+        "verifiableCredentialType": "https://ngsi-ld.ouranos-ws.com/verifiableCredentialType",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace"
     }
 }

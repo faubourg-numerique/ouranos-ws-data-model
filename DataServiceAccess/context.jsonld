@@ -1,16 +1,8 @@
 {
     "@context": {
         "DataServiceAccess": "https://ngsi-ld.ouranos-ws.com/DataServiceAccess",
-        "dataServiceProviderId": "https://ngsi-ld.ouranos-ws.com/dataServiceProviderId",
         "hasDataService": "https://ngsi-ld.ouranos-ws.com/hasDataService",
-        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
-        "lastDelegationEvidence": "https://ngsi-ld.ouranos-ws.com/lastDelegationEvidence",
-        "notBefore": "https://ngsi-ld.ouranos-ws.com/notBefore",
-        "notOnOrAfter": "https://ngsi-ld.ouranos-ws.com/notOnOrAfter",
-        "roleName": "https://ngsi-ld.ouranos-ws.com/roleName",
-        "synchronizationTime": "https://ngsi-ld.ouranos-ws.com/synchronizationTime",
-        "synchronized": "https://ngsi-ld.ouranos-ws.com/synchronized",
-        "verifiableCredentialType": "https://ngsi-ld.ouranos-ws.com/verifiableCredentialType",
-        "hasRole": "https://ngsi-ld.ouranos-ws.com/hasRole"
+        "hasRole": "https://ngsi-ld.ouranos-ws.com/hasRole",
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace"
     }
 }
