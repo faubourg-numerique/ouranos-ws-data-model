@@ -128,6 +128,8 @@
         "stakeholderDid": "https://ngsi-ld.ouranos-ws.com/stakeholderDid",
         "stakeholderName": "https://ngsi-ld.ouranos-ws.com/stakeholderName",
         "validFromTime": "https://ngsi-ld.ouranos-ws.com/validFromTime",
-        "validToTime": "https://ngsi-ld.ouranos-ws.com/validToTime"
+        "validToTime": "https://ngsi-ld.ouranos-ws.com/validToTime",
+        "scopeType": "https://ngsi-ld.ouranos-ws.com/scopeType",
+        "scopeEntity": "https://ngsi-ld.ouranos-ws.com/scopeEntity"
     }
 }

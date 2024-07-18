@@ -7,6 +7,8 @@
         "stakeholderName": "https://ngsi-ld.ouranos-ws.com/stakeholderName",
         "validFromTime": "https://ngsi-ld.ouranos-ws.com/validFromTime",
         "validToTime": "https://ngsi-ld.ouranos-ws.com/validToTime",
-        "verifiableCredentialType": "https://ngsi-ld.ouranos-ws.com/verifiableCredentialType"
+        "verifiableCredentialType": "https://ngsi-ld.ouranos-ws.com/verifiableCredentialType",
+        "scopeType": "https://ngsi-ld.ouranos-ws.com/scopeType",
+        "scopeEntity": "https://ngsi-ld.ouranos-ws.com/scopeEntity"
     }
 }

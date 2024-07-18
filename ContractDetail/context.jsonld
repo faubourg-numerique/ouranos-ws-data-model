@@ -3,6 +3,8 @@
         "ContractDetail": "https://ngsi-ld.ouranos-ws.com/ContractDetail",
         "hasContract": "https://ngsi-ld.ouranos-ws.com/hasContract",
         "hasRole": "https://ngsi-ld.ouranos-ws.com/hasRole",
-        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace"
+        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
+        "scopeType": "https://ngsi-ld.ouranos-ws.com/scopeType",
+        "scopeEntity": "https://ngsi-ld.ouranos-ws.com/scopeEntity"
     }
 }
