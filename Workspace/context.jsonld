@@ -11,6 +11,8 @@
         "hasAuthorizationRegistryGrant": "https://ngsi-ld.ouranos-ws.com/hasAuthorizationRegistryGrant",
         "hasService": "https://ngsi-ld.ouranos-ws.com/hasService",
         "name": "https://ngsi-ld.ouranos-ws.com/name",
-        "temporalServices": "https://ngsi-ld.ouranos-ws.com/temporalServices"
+        "temporalServices": "https://ngsi-ld.ouranos-ws.com/temporalServices",
+        "hasIdentityManager": "https://ngsi-ld.ouranos-ws.com/hasIdentityManager",
+        "hasIdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/hasIdentityManagerGrant"
     }
 }
