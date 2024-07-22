@@ -130,6 +130,8 @@
         "validFromTime": "https://ngsi-ld.ouranos-ws.com/validFromTime",
         "validToTime": "https://ngsi-ld.ouranos-ws.com/validToTime",
         "scopeType": "https://ngsi-ld.ouranos-ws.com/scopeType",
-        "scopeEntity": "https://ngsi-ld.ouranos-ws.com/scopeEntity"
+        "scopeEntity": "https://ngsi-ld.ouranos-ws.com/scopeEntity",
+        "roleScopeName": "https://ngsi-ld.ouranos-ws.com/roleScopeName",
+        "scopeName": "https://ngsi-ld.ouranos-ws.com/scopeName"
     }
 }

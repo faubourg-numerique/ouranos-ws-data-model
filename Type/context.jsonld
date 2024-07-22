@@ -9,6 +9,7 @@
         "standardDataModelBased": "https://ngsi-ld.ouranos-ws.com/standardDataModelBased",
         "standardDataModelDefinitionUrl": "https://ngsi-ld.ouranos-ws.com/standardDataModelDefinitionUrl",
         "standardDataModelType": "https://ngsi-ld.ouranos-ws.com/standardDataModelType",
-        "url": "https://ngsi-ld.ouranos-ws.com/url"
+        "url": "https://ngsi-ld.ouranos-ws.com/url",
+        "scopeName": "https://ngsi-ld.ouranos-ws.com/scopeName"
     }
 }
