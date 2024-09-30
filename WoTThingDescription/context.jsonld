@@ -2,6 +2,7 @@
     "@context": {
         "WoTThingDescription": "https://ngsi-ld.ouranos-ws.com/WoTThingDescription",
         "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasType": "https://ngsi-ld.ouranos-ws.com/hasType",
         "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
         "name": "https://ngsi-ld.ouranos-ws.com/name",
         "positionInChart": "https://ngsi-ld.ouranos-ws.com/positionInChart"
