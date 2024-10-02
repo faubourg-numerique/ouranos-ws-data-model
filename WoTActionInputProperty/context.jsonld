@@ -1,0 +1,13 @@
+{
+    "WoTActionInputProperty": "https://ngsi-ld.ouranos-ws.com/WoTActionInputProperty",
+    "description": "https://ngsi-ld.ouranos-ws.com/description",
+    "enum": "https://ngsi-ld.ouranos-ws.com/enum",
+    "hasWoTAction": "https://ngsi-ld.ouranos-ws.com/hasWoTAction",
+    "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
+    "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
+    "maximum": "https://ngsi-ld.ouranos-ws.com/maximum",
+    "minimum": "https://ngsi-ld.ouranos-ws.com/minimum",
+    "name": "https://ngsi-ld.ouranos-ws.com/name",
+    "propertyType": "https://ngsi-ld.ouranos-ws.com/propertyType",
+    "required": "https://ngsi-ld.ouranos-ws.com/required"
+}
