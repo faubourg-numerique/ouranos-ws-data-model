@@ -1,0 +1,10 @@
+{
+    "@context": {
+        "WoTObject": "https://ngsi-ld.ouranos-ws.com/WoTObject",
+        "hasWoTServer": "https://ngsi-ld.ouranos-ws.com/hasWoTServer",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "ngsiLdEntityId": "https://ngsi-ld.ouranos-ws.com/ngsiLdEntityId",
+        "wotId": "https://ngsi-ld.ouranos-ws.com/wotId",
+        "wotObjectId": "https://ngsi-ld.ouranos-ws.com/wotObjectId"
+    }
+}

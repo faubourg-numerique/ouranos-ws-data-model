@@ -1,0 +1,8 @@
+{
+    "@context": {
+        "WoTServer": "https://ngsi-ld.ouranos-ws.com/WoTServer",
+        "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "url": "https://ngsi-ld.ouranos-ws.com/url"
+    }
+}
