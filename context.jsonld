@@ -119,6 +119,7 @@
         "propertyNgsiLdValueType": "https://ngsi-ld.ouranos-ws.com/propertyNgsiLdValueType",
         "propertyType": "https://ngsi-ld.ouranos-ws.com/propertyType",
         "relationshipType": "https://ngsi-ld.ouranos-ws.com/relationshipType",
+        "repositoryName": "https://ngsi-ld.ouranos-ws.com/repositoryName",
         "required": "https://ngsi-ld.ouranos-ws.com/required",
         "roleName": "https://ngsi-ld.ouranos-ws.com/roleName",
         "roleScopeName": "https://ngsi-ld.ouranos-ws.com/roleScopeName",
