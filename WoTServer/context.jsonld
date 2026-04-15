@@ -2,9 +2,10 @@
     "@context": {
         "WoTServer": "https://ngsi-ld.ouranos-ws.com/WoTServer",
         "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
+        "httpServerPort": "https://ngsi-ld.ouranos-ws.com/httpServerPort",
         "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "notificationHttpServerPort": "https://ngsi-ld.ouranos-ws.com/notificationHttpServerPort",
         "repositoryName": "https://ngsi-ld.ouranos-ws.com/repositoryName",
-        "url": "https://ngsi-ld.ouranos-ws.com/url",
-        "version": "https://ngsi-ld.ouranos-ws.com/version"
+        "url": "https://ngsi-ld.ouranos-ws.com/url"
     }
 }
