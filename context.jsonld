@@ -136,6 +136,7 @@
         "standardDataModelBased": "https://ngsi-ld.ouranos-ws.com/standardDataModelBased",
         "standardDataModelDefinitionUrl": "https://ngsi-ld.ouranos-ws.com/standardDataModelDefinitionUrl",
         "standardDataModelType": "https://ngsi-ld.ouranos-ws.com/standardDataModelType",
+        "subscriptions": "https://ngsi-ld.ouranos-ws.com/subscriptions",
         "synchronizationTime": "https://ngsi-ld.ouranos-ws.com/synchronizationTime",
         "synchronized": "https://ngsi-ld.ouranos-ws.com/synchronized",
         "temporal": "https://ngsi-ld.ouranos-ws.com/temporal",

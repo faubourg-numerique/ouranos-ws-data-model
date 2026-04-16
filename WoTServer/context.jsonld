@@ -6,6 +6,7 @@
         "name": "https://ngsi-ld.ouranos-ws.com/name",
         "notificationHttpServerPort": "https://ngsi-ld.ouranos-ws.com/notificationHttpServerPort",
         "repositoryName": "https://ngsi-ld.ouranos-ws.com/repositoryName",
+        "subscriptions": "https://ngsi-ld.ouranos-ws.com/subscriptions",
         "url": "https://ngsi-ld.ouranos-ws.com/url"
     }
 }
