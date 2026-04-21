@@ -35,6 +35,7 @@
         "Workspace": "https://ngsi-ld.ouranos-ws.com/Workspace",
         "accessSubject": "https://ngsi-ld.ouranos-ws.com/accessSubject",
         "actions": "https://ngsi-ld.ouranos-ws.com/actions",
+        "adapterRepositoryName": "https://ngsi-ld.ouranos-ws.com/adapterRepositoryName",
         "attributes": "https://ngsi-ld.ouranos-ws.com/attributes",
         "authorizationMode": "https://ngsi-ld.ouranos-ws.com/authorizationMode",
         "authorizationRequired": "https://ngsi-ld.ouranos-ws.com/authorizationRequired",

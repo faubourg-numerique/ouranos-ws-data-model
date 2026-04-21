@@ -1,6 +1,7 @@
 {
     "@context": {
         "WoTServer": "https://ngsi-ld.ouranos-ws.com/WoTServer",
+        "adapterRepositoryName": "https://ngsi-ld.ouranos-ws.com/adapterRepositoryName",
         "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
         "httpServerPort": "https://ngsi-ld.ouranos-ws.com/httpServerPort",
         "name": "https://ngsi-ld.ouranos-ws.com/name",
