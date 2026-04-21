@@ -120,6 +120,7 @@
         "privateKey": "https://ngsi-ld.ouranos-ws.com/privateKey",
         "propertyNgsiLdValueType": "https://ngsi-ld.ouranos-ws.com/propertyNgsiLdValueType",
         "propertyType": "https://ngsi-ld.ouranos-ws.com/propertyType",
+        "proprietaryId": "https://ngsi-ld.ouranos-ws.com/proprietaryId",
         "relationshipType": "https://ngsi-ld.ouranos-ws.com/relationshipType",
         "repositoryName": "https://ngsi-ld.ouranos-ws.com/repositoryName",
         "required": "https://ngsi-ld.ouranos-ws.com/required",

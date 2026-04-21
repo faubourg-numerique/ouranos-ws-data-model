@@ -4,7 +4,7 @@
         "hasWoTServer": "https://ngsi-ld.ouranos-ws.com/hasWoTServer",
         "name": "https://ngsi-ld.ouranos-ws.com/name",
         "ngsiLdEntityId": "https://ngsi-ld.ouranos-ws.com/ngsiLdEntityId",
-        "wotId": "https://ngsi-ld.ouranos-ws.com/wotId",
+        "proprietaryId": "https://ngsi-ld.ouranos-ws.com/proprietaryId",
         "wotObjectId": "https://ngsi-ld.ouranos-ws.com/wotObjectId"
     }
 }
