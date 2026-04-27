@@ -74,6 +74,7 @@
         "hasEntityType": "https://ngsi-ld.ouranos-ws.com/hasEntityType",
         "hasIdentityManager": "https://ngsi-ld.ouranos-ws.com/hasIdentityManager",
         "hasIdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/hasIdentityManagerGrant",
+        "hasMCPServer": "https://ngsi-ld.ouranos-ws.com/hasMCPServer",
         "hasOffer": "https://ngsi-ld.ouranos-ws.com/hasOffer",
         "hasProperty": "https://ngsi-ld.ouranos-ws.com/hasProperty",
         "hasRole": "https://ngsi-ld.ouranos-ws.com/hasRole",
