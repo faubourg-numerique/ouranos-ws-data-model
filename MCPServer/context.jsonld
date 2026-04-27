@@ -1,0 +1,9 @@
+{
+    "@context": {
+        "MCPServer": "https://ngsi-ld.ouranos-ws.com/MCPServer",
+        "httpServerPort": "https://ngsi-ld.ouranos-ws.com/httpServerPort",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "repositoryName": "https://ngsi-ld.ouranos-ws.com/repositoryName",
+        "url": "https://ngsi-ld.ouranos-ws.com/url"
+    }
+}

@@ -14,6 +14,7 @@
         "DataServiceProperty": "https://ngsi-ld.ouranos-ws.com/DataServiceProperty",
         "IdentityManager": "https://ngsi-ld.ouranos-ws.com/IdentityManager",
         "IdentityManagerGrant": "https://ngsi-ld.ouranos-ws.com/IdentityManagerGrant",
+        "MCPServer": "https://ngsi-ld.ouranos-ws.com/MCPServer",
         "Property": "https://ngsi-ld.ouranos-ws.com/Property",
         "Role": "https://ngsi-ld.ouranos-ws.com/Role",
         "Routing": "https://ngsi-ld.ouranos-ws.com/Routing",
