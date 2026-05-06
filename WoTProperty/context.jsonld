@@ -4,9 +4,15 @@
         "capacityType": "https://ngsi-ld.ouranos-ws.com/capacityType",
         "capacityValue": "https://ngsi-ld.ouranos-ws.com/capacityValue",
         "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "enum": "https://ngsi-ld.ouranos-ws.com/enum",
         "hasProperty": "https://ngsi-ld.ouranos-ws.com/hasProperty",
         "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
-        "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
-        "name": "https://ngsi-ld.ouranos-ws.com/name"
+        "maximum": "https://ngsi-ld.ouranos-ws.com/maximum",
+        "minimum": "https://ngsi-ld.ouranos-ws.com/minimum",
+        "name": "https://ngsi-ld.ouranos-ws.com/name",
+        "observable": "https://ngsi-ld.ouranos-ws.com/observable",
+        "propertyType": "https://ngsi-ld.ouranos-ws.com/propertyType",
+        "readonly": "https://ngsi-ld.ouranos-ws.com/readonly",
+        "temporal": "https://ngsi-ld.ouranos-ws.com/temporal"
     }
 }
