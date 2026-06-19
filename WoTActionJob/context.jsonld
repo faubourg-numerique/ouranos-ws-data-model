@@ -1,6 +1,7 @@
 {
     "@context": {
         "WoTActionJob": "https://ngsi-ld.ouranos-ws.com/WoTActionJob",
+        "executedAt": "https://ngsi-ld.ouranos-ws.com/executedAt",
         "executionStatus": "https://ngsi-ld.ouranos-ws.com/executionStatus",
         "hasWoTAction": "https://ngsi-ld.ouranos-ws.com/hasWoTAction",
         "hasWoTObject": "https://ngsi-ld.ouranos-ws.com/hasWoTObject",

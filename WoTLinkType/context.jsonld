@@ -1,0 +1,7 @@
+{
+    "@context": {
+        "WoTLinkType": "https://ngsi-ld.ouranos-ws.com/WoTLinkType",
+        "isPhysical": "https://ngsi-ld.ouranos-ws.com/isPhysical",
+        "name": "https://ngsi-ld.ouranos-ws.com/name"
+    }
+}

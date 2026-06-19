@@ -1,0 +1,11 @@
+{
+    "@context": {
+        "WoTLink": "https://ngsi-ld.ouranos-ws.com/WoTLink",
+        "associationWoTActionJob": "https://ngsi-ld.ouranos-ws.com/associationWoTActionJob",
+        "childWoTObject": "https://ngsi-ld.ouranos-ws.com/childWoTObject",
+        "dissociationWoTActionJob": "https://ngsi-ld.ouranos-ws.com/dissociationWoTActionJob",
+        "hasWoTLinkType": "https://ngsi-ld.ouranos-ws.com/hasWoTLinkType",
+        "parentWoTObject": "https://ngsi-ld.ouranos-ws.com/parentWoTObject",
+        "status": "https://ngsi-ld.ouranos-ws.com/status"
+    }
+}
