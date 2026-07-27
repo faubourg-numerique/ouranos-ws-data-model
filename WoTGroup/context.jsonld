@@ -1,0 +1,6 @@
+{
+    "@context": {
+        "WoTGroup": "https://ngsi-ld.ouranos-ws.com/WoTGroup",
+        "name": "https://ngsi-ld.ouranos-ws.com/name"
+    }
+}
