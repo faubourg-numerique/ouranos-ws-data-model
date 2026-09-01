@@ -1,11 +1,14 @@
 {
     "@context": {
         "WoTThingDescription": "https://ngsi-ld.ouranos-ws.com/WoTThingDescription",
+        "deployRequired": "https://ngsi-ld.ouranos-ws.com/deployRequired",
         "description": "https://ngsi-ld.ouranos-ws.com/description",
         "hasGroup": "https://ngsi-ld.ouranos-ws.com/hasGroup",
         "hasType": "https://ngsi-ld.ouranos-ws.com/hasType",
         "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
         "name": "https://ngsi-ld.ouranos-ws.com/name",
-        "positionInChart": "https://ngsi-ld.ouranos-ws.com/positionInChart"
+        "positionInChart": "https://ngsi-ld.ouranos-ws.com/positionInChart",
+        "publishRequired": "https://ngsi-ld.ouranos-ws.com/publishRequired",
+        "restartRequired": "https://ngsi-ld.ouranos-ws.com/restartRequired"
     }
 }
