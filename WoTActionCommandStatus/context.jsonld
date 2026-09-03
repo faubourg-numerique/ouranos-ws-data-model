@@ -1,0 +1,8 @@
+{
+    "@context": {
+        "WoTActionCommandStatus": "https://ngsi-ld.ouranos-ws.com/WoTActionCommandStatus",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
+        "hasWoTAction": "https://ngsi-ld.ouranos-ws.com/hasWoTAction",
+        "name": "https://ngsi-ld.ouranos-ws.com/name"
+    }
+}

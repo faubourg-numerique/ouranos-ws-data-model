@@ -26,6 +26,7 @@
         "Type": "https://ngsi-ld.ouranos-ws.com/Type",
         "VCVerifier": "https://ngsi-ld.ouranos-ws.com/VCVerifier",
         "WoTAction": "https://ngsi-ld.ouranos-ws.com/WoTAction",
+        "WoTActionCommandStatus": "https://ngsi-ld.ouranos-ws.com/WoTActionCommandStatus",
         "WoTActionInputProperty": "https://ngsi-ld.ouranos-ws.com/WoTActionInputProperty",
         "WoTActionJob": "https://ngsi-ld.ouranos-ws.com/WoTActionJob",
         "WoTEvent": "https://ngsi-ld.ouranos-ws.com/WoTEvent",
