@@ -1,6 +1,7 @@
 {
     "@context": {
         "WoTLinkType": "https://ngsi-ld.ouranos-ws.com/WoTLinkType",
+        "description": "https://ngsi-ld.ouranos-ws.com/description",
         "isPhysical": "https://ngsi-ld.ouranos-ws.com/isPhysical",
         "name": "https://ngsi-ld.ouranos-ws.com/name"
     }

@@ -115,6 +115,7 @@
         "lastDelegationEvidence": "https://ngsi-ld.ouranos-ws.com/lastDelegationEvidence",
         "mandatory": "https://ngsi-ld.ouranos-ws.com/mandatory",
         "maximum": "https://ngsi-ld.ouranos-ws.com/maximum",
+        "metaType": "https://ngsi-ld.ouranos-ws.com/metaType",
         "minimum": "https://ngsi-ld.ouranos-ws.com/minimum",
         "multiTenancyEnabled": "https://ngsi-ld.ouranos-ws.com/multiTenancyEnabled",
         "multiValued": "https://ngsi-ld.ouranos-ws.com/multiValued",

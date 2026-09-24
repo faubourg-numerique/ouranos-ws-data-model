@@ -6,6 +6,7 @@
     "hasWoTThingDescription": "https://ngsi-ld.ouranos-ws.com/hasWoTThingDescription",
     "hasWorkspace": "https://ngsi-ld.ouranos-ws.com/hasWorkspace",
     "maximum": "https://ngsi-ld.ouranos-ws.com/maximum",
+    "metaType": "https://ngsi-ld.ouranos-ws.com/metaType",
     "minimum": "https://ngsi-ld.ouranos-ws.com/minimum",
     "name": "https://ngsi-ld.ouranos-ws.com/name",
     "propertyType": "https://ngsi-ld.ouranos-ws.com/propertyType",
